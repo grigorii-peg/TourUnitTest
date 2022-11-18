@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\С++\C#\TourUnit\bin\Debug\net6.0\TourUnit.deps.json
+C:\Users\Admin\Desktop\С++\C#\TourUnit\bin\Debug\net6.0\TourUnit.dll
+C:\Users\Admin\Desktop\С++\C#\TourUnit\bin\Debug\net6.0\ref\TourUnit.dll
+C:\Users\Admin\Desktop\С++\C#\TourUnit\bin\Debug\net6.0\TourUnit.pdb
+C:\Users\Admin\Desktop\С++\C#\TourUnit\bin\Debug\net6.0\Last-min Tour.exe
+C:\Users\Admin\Desktop\С++\C#\TourUnit\bin\Debug\net6.0\Last-min Tour.pdb
+C:\Users\Admin\Desktop\С++\C#\TourUnit\bin\Debug\net6.0\Last-min Tour.exe.config
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.AssemblyInfo.cs
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.csproj.CopyComplete
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.dll
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\ref\TourUnit.dll
+C:\Users\Admin\Desktop\С++\C#\TourUnit\obj\Debug\net6.0\TourUnit.pdb

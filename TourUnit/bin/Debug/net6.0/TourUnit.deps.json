@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TourUnit/1.0.0": {
+        "runtime": {
+          "TourUnit.dll": {}
+        }
+      },
+      "Last-min Tour/1.0.0": {
+        "runtime": {
+          "Last-min Tour.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TourUnit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Last-min Tour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
